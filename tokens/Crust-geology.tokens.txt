@@ -1,0 +1,111 @@
+ Crust( geology)- wikipedia Crust( geology)
+
+ Jump to: navigation, search For any other use, see Crust( disambiguation). The internal structure of Earth In geology, the crust is the outermost solid shell of a rocky planet, dwarf planet, or natural satellite. It is usually distinguished from the underlying mantle by its chemical makeup; however, in the case of icy satellites, it may be distinguished based on its phase( solid crust vs. liquid mantle).
+
+ The crusts of Earth, Moon, Mercury, Venus, Mars, Io, and other planetary bodies formed via igneous processes, and were later modified by erosion, impact cratering, volcanism, and sedimentation.
+
+ Most terrestrial planets have fairly uniform crusts. Earth, however, has two distinct types: continental crust and oceanic crust. These two types have different chemical compositions and physical properties, and were formed by different geological processes.
+
+
+
+ Contents
+
+( hide)1 Types of crust1.1 Primary crust/ primordial crust1.2 Secondary crust1.3 Tertiary crust2 Earth's crust2.1 Structure2.2 Composition2.3 Formation and evolution3 Moon's crust4 See also5 References6 External links
+
+ Types of crust
+
+ Planetary geologists divide crust into three categories, based on how and when they formed.
+
+ Primary crust/ primordial crust
+
+ This is a planet's`` original'' crust. It forms from solidification of a magma ocean. Toward the end of planetary accretion, the terrestrial planets likely had surfaces that were magma oceans. As these cooled, they solidified into crust. This crust was likely destroyed by large impacts and re-formed many times as the Era of Heavy Bombardment drew to a close.
+
+ The nature of primary crust is still debated: its chemical, mineralogic, and physical properties are unknown, as are the igneous mechanisms that formed them. This is because it is difficult to study: none of Earth's primary crust has survived to today. Earth's high rates of erosion and crustal recycling from plate tectonics has destroyed all rocks older than about4 billion years, including whatever primary crust Earth once had.
+
+ However, geologists can glean information about primary crust by studying it on other terrestrial planets. Mercury's highlands might represent primary crust, though this is debated. The anorthosite highlands of the Moon are primary crust, formed as plagioclase crystallized out of the Moon's initial magma ocean and floated to the top; however, it is unlikely that Earth followed a similar pattern, as the Moon was a water-less system and Earth had water. The Martian meteorite ALH84001 might represent primary crust of Mars; however, again, this is debated. Like Earth, Venus lacks primary crust, as the entire planet has been repeatedly resurfaced and modified.
+
+ Secondary crust
+
+ Secondary crust is formed by partial melting of silicate materials in the mantle, and so is usually basaltic in composition.
+
+ This is the most common type of crust in the Solar System. Most of the surfaces of Mercury, Venus, Earth, and Mars comprise secondary crust, as do the lunar maria. On Earth, we see secondary crust forming primarily at mid-ocean spreading centers, where the adiabatic rise of mantle causes partial melting.
+
+ Tertiary crust
+
+ Tertiary crust is more chemically- modified than either primary or secondary. It can form in several ways:
+
+ Igneous processes: partial- melting of secondary crust, coupled with differentiation or dehydration Erosion and sedimentation: sediments derived from primary, secondary, or tertiary crust The only known example of tertiary crust is the continental crust of the Earth. It is unknown whether other terrestrial planets can be said to have tertiary crust, though the evidence so far suggests that they do not. This is likely because plate tectonics is needed to create tertiary crust, and Earth is the only planet in our Solar System with plate tectonics.
+
+ Earth's crust
+
+ Structure
+
+ Plates in the crust of Earth The crust is a thin shell on the outside of the Earth, accounting for less than1% of Earth's volume. It is the top component of lithosphere: a division of Earth's layers that includes the crust and the upper part of the mantle. The lithosphere is broken into tectonic plates that move, allowing heat to escape from the interior of the Earth into space.
+
+ The crust lies on top of the mantle, a configuration that is stable because the upper mantle is made of peridotite and so is significantly denser than the crust. The boundary between the crust and mantle is conventionally placed at the Mohorovičić discontinuity, a boundary defined by a contrast in seismic velocity.
+
+ Geologic provinces of the World( USGS) Shield Platform Orogen Basin Large igneous province Extended crust Oceanic crust:0--20 Ma20--65 Ma>65 Ma The crust of the Earth is of two distinctive types:
+
+ Oceanic:5 km(3 mi) to10 km(6 mi) thick and composed primarily of denser, more mafic rocks, such as basalt, diabase, and gabbro. Continental:30 km(20 mi) to50 km(30 mi) thick and mostly composed of less dense, more felsic rocks, such as granite. Because both continental and oceanic crust are less dense than the mantle below, both types of crust`` float'' on the mantle. This is isostasy, and it's also one of the reasons continental crust is higher than oceanic: continental is less dense and so`` floats'' higher. As a result, water pools in above the oceanic crust, forming the oceans.
+
+ The temperature of the crust increases with depth, reaching values typically in the range from about200° C(392° F) to400° C(752° F) at the boundary with the underlying mantle. The temperature increases by as much as30° C(54° F) for every kilometer locally in the upper part of the crust, but the geothermal gradient is smaller in deeper crust.
+
+ Composition
+
+ Main articles: Abundance of elements in Earth's crust and Goldschmidt classification Abundance( atom fraction) of the chemical elements in Earth's upper continental crust as a function of atomic number. The rarest elements in the crust( shown in yellow) are not the heaviest, but are rather the siderophile( iron- loving) elements in the Goldschmidt classification of elements. These have been depleted by being relocated deeper into Earth's core. Their abundance in meteoroid materials is higher. Additionally, tellurium and selenium have been depleted from the crust due to formation of volatile hydrides. The continental crust has an average composition similar to that of andesite. The most abundant minerals in Earth's continental crust are feldspars, which make up about41% of the crust by weight, followed by quartz at12%, and pyroxenes at11%. Continental crust is enriched in incompatible elements compared to the basaltic ocean crust and much enriched compared to the underlying mantle. Although the continental crust comprises only about0.6 weight percent of the silicate on Earth, it contains20% to70% of the incompatible elements.
+
+ Most Abundant Elements of Earth's Crust Approximate% by weight O46.6 Si27.7 Al8.1 Fe5.0 Ca3.6 Na2.82.6 Mg1.5
+
+ Oxide Percent SiO60.6 Al O15.9 CaO6.4 MgO4.7 Na O3.1 Fe as FeO6.7 K O1.8 TiO0.7 P O0.1 All the other constituents except water occur only in very small quantities and total less than1%. Estimates of average density for the upper crust range between2.69 and2.74 g/ cm and for lower crust between3.0 and3.25 g/ cm.
+
+ Formation and evolution
+
+ Main article: Formation of the Earth Earth formed approximately4.6 billion years ago from a disk of dust and gas orbiting the newly formed Sun. It formed via accretion, where planetesimals and other smaller rocky bodies collided and stuck, gradually growing into a planet. This process generated an enormous amount of heat, which caused early Earth to melt completely. As planetary accretion slowed, Earth began to cool, forming its first crust, called a primary or primordial crust. This crust was likely repeatedly destroyed by large impacts, then reformed from the magma ocean left by the impact. None of Earth's primary crust has survived to today; all was destroyed by erosion, impacts, and plate tectonics over the past several billion years.
+
+ Since then, Earth has been forming secondary and tertiary crust. Secondary crust forms at mid-ocean spreading centers, where partial- melting of the underlying mantle yields basaltic magmas and new ocean crust forms. This`` ridge push'' is one of the driving forces of plate tectonics, and it is constantly creating new ocean crust. That means that old crust must be destroyed somewhere, so, opposite a spreading center, there is usually a subduction zone: a trench where an ocean plate is being shoved back into the mantle. This constant process of creating new ocean crust and destroying old ocean crust means that the oldest ocean crust on Earth today is only about200 million years old.
+
+ In contrast, the bulk of the continental crust is much older. The oldest continental crustal rocks on Earth have ages in the range from about3.7 to4.28 billion years and have been found in the Narryer Gneiss Terrane in Western Australia, in the Acasta Gneiss in the Northwest Territories on the Canadian Shield, and on other cratonic regions such as those on the Fennoscandian Shield. Some zircon with age as great as4.3 billion years has been found in the Narryer Gneiss Terrane.
+
+ The average age of the current Earth's continental crust has been estimated to be about2.0 billion years. Most crustal rocks formed before2.5 billion years ago are located in cratons. Such old continental crust and the underlying mantle asthenosphere are less dense than elsewhere in Earth and so are not readily destroyed by subduction. Formation of new continental crust is linked to periods of intense orogeny; these periods coincide with the formation of the supercontinents such as Rodinia, Pangaea and Gondwana. The crust forms in part by aggregation of island arcs including granite and metamorphic fold belts, and it is preserved in part by depletion of the underlying mantle to form buoyant lithospheric mantle.
+
+ Moon's crust
+
+ Main article: Geology of the Moon A theoretical protoplanet named`` Theia'' is thought to have collided with the forming Earth, and part of the material ejected into space by the collision accreted to form the Moon. As the Moon formed, the outer part of it is thought to have been molten, a`` lunar magma ocean.'' Plagioclase feldspar crystallized in large amounts from this magma ocean and floated toward the surface. The cumulate rocks form much of the crust. The upper part of the crust probably averages about88% plagioclase( near the lower limit of90% defined for anorthosite): the lower part of the crust may contain a higher percentage of ferromagnesian minerals such as the pyroxenes and olivine, but even that lower part probably averages about78% plagioclase. The underlying mantle is denser and olivine- rich.
+
+ The thickness of the crust ranges between about20 and120 km. Crust on the far side of the Moon averages about12 km thicker than that on the near side. Estimates of average thickness fall in the range from about50 to60 km. Most of this plagioclase- rich crust formed shortly after formation of the moon, between about4.5 and4.3 billion years ago. Perhaps10% or less of the crust consists of igneous rock added after the formation of the initial plagioclase- rich material. The best- characterized and most voluminous of these later additions are the mare basalts formed between about3.9 and3.2 billion years ago. Minor volcanism continued after3.2 billion years, perhaps as recently as1 billion years ago. There is no evidence of plate tectonics.
+
+ Study of the Moon has established that a crust can form on a rocky planetary body significantly smaller than Earth. Although the radius of the Moon is only about a quarter that of Earth, the lunar crust has a significantly greater average thickness. This thick crust formed almost immediately after formation of the Moon. Magmatism continued after the period of intense meteorite impacts ended about3.9 billion years ago, but igneous rocks younger than3.9 billion years make up only a minor part of the crust.
+
+ See also
+
+ Geology portal Eduction References
+
+^ Jump up to: Hargitai, Henrik(2014). Encyclopedia of Planetary Landforms. Springer New York. pp.1--8. doi:10.1007/978-1-4614-9213-9_90-1. ISBN9781461492139. Jump up^ Chambers, John E.(2004).`` Planetary accretion in the inner Solar System''. Earth and Planetary Science Letters.223(3--4):241--252. Bibcode:2004E&PSL.223...241C. doi:10.1016/ j. epsl.2004.04.031. Jump up^ Taylor, Stuart Ross(1989).`` Growth of planetary crusts''. Tectonophysics.161(3--4):147--156. Bibcode:1989Tectp.161...147T. doi:10.1016/0040-1951(89)90151-0. Jump up^ Earth's oldest rocks. Van Kranendonk, Martin., Smithies, R.H., Bennett, Vickie C.(1st ed.). Amsterdam: Elsevier.2007. ISBN9780080552477. OCLC228148014.^ Jump up to:1925--, Taylor, Stuart Ross,(2009). Planetary crusts: their composition, origin and evolution. McLennan, Scott M. Cambridge, UK: Cambridge University Press. ISBN0521841860. OCLC666900567. Jump up^ Taylor, G.J.(2009-02-01).`` Ancient Lunar Crust: Origin, Composition, and Implications''. Elements.5(1):17--22. doi:10.2113/ gselements.5.1.17. ISSN1811-5209. Jump up^ Albarède, Francis; Blichert- Toft, Janne(2007).`` The split fate of the early Earth, Mars, Venus, and Moon''. Comptes Rendus Geoscience.339(14--15):917--927. Bibcode:2007CRGeo.339...917A. doi:10.1016/ j. crte.2007.09.006. Jump up^ Venus II-- geology, geophysics, atmosphere, and solar wind environment. Bougher, S.W.( Stephen Wesley),1955--, Hunten, Donald M., Phillips, R.J.( Roger J.),1940--. Tucson, Ariz.: University of Arizona Press.1997. ISBN9780816518302. OCLC37315367. Jump up^ Robinson, Eugene C.( January14,2011).`` The Interior of the Earth''. U.S. Geological Survey. Retrieved August30,2013. Jump up^ Structure of the Earth. The Encyclopedia of Earth. March3,2010 Jump up^ Peele, Robert(1911).`` Boring''. In Chisholm, Hugh. Encyclopædia Britannica.4(11th ed.). Cambridge University Press. p.251. Jump up^ Earth. Channel4.com. Retrieved on2011-12-13. Jump up^ R.L. Rudnick and S. Gao,2003, Composition of the Continental Crust. In The Crust( ed. R.L. Rudnick) volume3, pp.1--64 of Treatise on Geochemistry( eds. H.D. Holland and K.K. Turekian), Elsevier- Pergamon, Oxford ISBN0-08-043751-6 Jump up^ Anderson, Robert S.; Anderson, Suzanne P.(2010). Geomorphology: The Mechanics and Chemistry of Landscapes. Cambridge University Press. p.187. ISBN978-1-139-78870-0. Jump up^`` Structure and composition of the Earth''. Australian Museum Online. Retrieved2007-09-14. Jump up^ Erickson, Jon(2014). Historical Geology: Understanding Our Planet's Past. Infobase Publishing. p.8. ISBN1438109644. Retrieved28 September2017. Jump up^`` Team finds Earth's' oldest rocks'''. BBC News.2008-09-26. Retrieved2010-03-27. Jump up^ P.J. Patchett and S.D. Samson,2003, Ages and Growth of the Continental Crust from Radiogenic Isotopes. In The Crust( ed. R.L. Rudnick) volume3, pp.321--348 of Treatise on Geochemistry( eds. H.D. Holland and K.K. Turekian), Elsevier- Pergamon, Oxford ISBN0-08-043751-6 Jump up^ A.I.S. Kemp and C.J. Hawkesworth,2003, Granitic Perspectives on the Generation and Secular Evolution of the Continental Crust. In The Crust( ed. R.L. Rudnick) volume3, pp.349--410 of Treatise on Geochemistry( eds. H.D. Holland and K.K. Turekian), Elsevier- Pergamon, Oxford ISBN0-08-043751-6 Jump up^ Wieczorek, M.A.& Zuber, M.T.(2001),`` The composition and origin of the lunar crust: Constraints from central peaks and crustal thickness modeling'', Geophysical Research Letters,28(21):4023--4026, Bibcode:2001GeoRL...28.4023 W, doi:10.1029/2001GL012918 Jump up^ Herald Hiesinger and James W. Head III(2006).`` New views of Lunar geoscience: An introduction and overview''( PDF). Reviews in Mineralogy& Geochemistry.60:1--81. Bibcode:2006RvMG...60...1H. doi:10.2138/ rmg.2006.60.1. Archived from the original( PDF) on2012-02-24. Condie, Kent C.(1989).`` Origin of the Earth's Crust''. Palaeogeography, Palaeoclimatology, Palaeoecology( Global and Planetary Change Section).75:57--81. Bibcode:1989PPP...75...57C. doi:10.1016/0031-0182(89)90184-3. External links
+
+ The Wikibook Historical Geology has a page on the topic of: Structure of the Earth USGS Crustal Thickness Map`` Crust of the Earth''. Encyclopedia Americana.1920.`` Geology''.1911 Encyclopædia Britannica.( hide) Structure of the Earth Shells Crust Lithosphere Mesosphere Mantle Asthenosphere Lithospheric mantle Subcontinental lithospheric mantle Oceanic lithospheric mantle Outer core Inner core Discontinuities Conrad( continental crust) Mohorovičić( crust-- mantle) Lehmann( upper mantle) Gutenberg( mantle-- core) Lehmann( core) Arguments Plate tectonics GND:4015169-4 NDL:00573002 Retrieved from`` https://en.wikipedia.org/w/index.php?title=Crust_(geology)&oldid=832468772'' Categories: Plate tectonics Structure of the Earth Hidden categories: Wikipedia articles incorporating a citation from the1911 Encyclopaedia Britannica with Wikisource reference All articles with dead external links Articles with dead external links from February2017 Articles with permanently dead external links Wikipedia indefinitely semi-protected pages Wikipedia articles incorporating a citation from the Encyclopedia Americana with a Wikisource reference Wikipedia articles with GND identifiers
+
+
+
+ Talk
+
+
+
+
+
+ View source
+
+
+
+
+
+ Contents
+
+ About Wikipedia
+
+
+
+
+
+
+
+Адыгэбзэ AfrikaansÆnglisc Aragonés Asturianu Azərbaycanca Bân- lâm- gú Basa BanyumasanБеларускаяБеларуская(тарашкевіца)‎Български Bosanski Brezhoneg CatalàČeština Cymraeg Deutsch EestiΕλληνικά Español Esperanto Euskaraفارسی Français Frysk Furlan Gaeilge Galego한국어Հայերենहिन्दी Hrvatski Bahasa Indonesia InterlinguaÍslenska Italianoעברית Basa Jawaქართული KiswahiliКыргызча Latviešu Lietuvių Limburgs MagyarМакедонскиമലയാളംმარგალური Bahasa MelayuМонгол Nederlands Nedersaksies日本語 Norsk Norsk nynorsk Occitan Oromooਪੰਜਾਬੀپنجابی Plattdüütsch Polski Português RomânăРусский Simple English Slovenčina Slovenščina SoomaaligaСрпски/ srpski Srpskohrvatski/српскохрватски Basa Sunda Suomi Svenskaதமிழ்Татарча/ tatarçaไทย TürkçeУкраїнськаاردو Tiếng Việt Walon粵語中文75 more Edit links This page was last edited on26 March2018, at05:48. Text is available under the Creative Commons Attribution- ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. About Wikipedia
